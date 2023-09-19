@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.light-pink-bg {
+  background-color: #264653;
+}
+
+.text-custom-color {
+  color: #264653;
+  /* Your desired text color */
+}
